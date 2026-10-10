@@ -1,0 +1,6 @@
+# Jeevan Dev Server Info
+
+- Localhost URL: http://localhost:3000/
+- Network URL: http://10.175.121.139:3000/
+- Project Path: C:\Users\laxmi\.gemini\antigravity-ide\scratch\jeevan
+- Start Command: "C:\Users\laxmi\AppData\Local\ms-playwright-go\1.57.0\node.exe" "node_modules\vite\bin\vite.js"
